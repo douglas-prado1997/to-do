@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\douglas.prado\\source\\Repos\\to-do list\\api\\to-do list.csproj": {}
+    "C:\\Users\\douglas.prado\\source\\Repos\\to-do list\\api\\to-do-list.csproj": {}
   },
   "projects": {
-    "C:\\Users\\douglas.prado\\source\\Repos\\to-do list\\api\\to-do list.csproj": {
+    "C:\\Users\\douglas.prado\\source\\Repos\\to-do list\\api\\to-do-list.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\douglas.prado\\source\\Repos\\to-do list\\api\\to-do list.csproj",
-        "projectName": "to-do list",
-        "projectPath": "C:\\Users\\douglas.prado\\source\\Repos\\to-do list\\api\\to-do list.csproj",
+        "projectUniqueName": "C:\\Users\\douglas.prado\\source\\Repos\\to-do list\\api\\to-do-list.csproj",
+        "projectName": "to-do-list",
+        "projectPath": "C:\\Users\\douglas.prado\\source\\Repos\\to-do list\\api\\to-do-list.csproj",
         "packagesPath": "C:\\Users\\douglas.prado\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\douglas.prado\\source\\Repos\\to-do list\\api\\obj\\",
         "projectStyle": "PackageReference",

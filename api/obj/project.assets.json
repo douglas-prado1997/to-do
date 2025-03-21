@@ -434,11 +434,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\douglas.prado\\source\\Repos\\to-do list\\to-do list.csproj",
-      "projectName": "to-do list",
-      "projectPath": "C:\\Users\\douglas.prado\\source\\Repos\\to-do list\\to-do list.csproj",
+      "projectUniqueName": "C:\\Users\\douglas.prado\\source\\Repos\\to-do list\\api\\to-do-list.csproj",
+      "projectName": "to-do-list",
+      "projectPath": "C:\\Users\\douglas.prado\\source\\Repos\\to-do list\\api\\to-do-list.csproj",
       "packagesPath": "C:\\Users\\douglas.prado\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\douglas.prado\\source\\Repos\\to-do list\\obj\\",
+      "outputPath": "C:\\Users\\douglas.prado\\source\\Repos\\to-do list\\api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
